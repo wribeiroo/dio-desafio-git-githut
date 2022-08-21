@@ -1,2 +1,2 @@
-# Repositório do Desafio do Projeto sobre Git e GitHub
+# Portfólio de estudo - DIO
 ### Database Experience
